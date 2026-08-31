@@ -1,9 +1,15 @@
 #include <stdio.h>
 
+void greet(const char *name)
+{
+    printf("Hello, %s! Welcome to your GitHub portfolio.\n", name);
+}
+
 int main()
 {
-    int num;
 
+    int num;
+    greet("Ada");
     printf("Enter a number: ");
     scanf("%d", &num);
 
