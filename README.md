@@ -1,23 +1,7 @@
-# Even Odd Checker
+Activity 3: Collaborative Coding with GitLens and Live Share
 
-A simple C program that checks whether a given number is even or odd.
+Collaboration Log:
 
-## How to Compile and Run
+Partner Name: Anjali Nair Built greet() function together.
 
-Compile the program:
-
-gcc even_odd.c -o even_odd
-
-Run the program:
-
-./even_odd
-
-## Example
-
-Enter a number: 5
-
-5 is odd.
-
-## Student
-
-Kavya Bist
+Learnings: • Using GitLens extension in VS Code to inspect commit history, file blame, and line-by-line change authorship. • Using Live Share extension to start and join a real-time collaborative coding session. • Collaboratively write, review, and commit code with a peer, then verify authorship and history using GitLens.
